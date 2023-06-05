@@ -1,0 +1,13 @@
+C:\Users\krchi\Desktop\TAREA EN CASA 2020\PROGRAMACION\PROYECTO DE EXAMEN\EXAMEN(factura)\EXAMEN(factura)\bin\Debug\EXAMEN(factura).exe
+C:\Users\krchi\Desktop\TAREA EN CASA 2020\PROGRAMACION\PROYECTO DE EXAMEN\EXAMEN(factura)\EXAMEN(factura)\bin\Debug\EXAMEN(factura).pdb
+C:\Users\krchi\Desktop\TAREA EN CASA 2020\PROGRAMACION\PROYECTO DE EXAMEN\EXAMEN(factura)\EXAMEN(factura)\bin\Debug\EXAMEN(factura).xml
+C:\Users\krchi\Desktop\TAREA EN CASA 2020\PROGRAMACION\PROYECTO DE EXAMEN\EXAMEN(factura)\EXAMEN(factura)\obj\x86\Debug\EXAMEN.AGREGAR_PRODUCTO.resources
+C:\Users\krchi\Desktop\TAREA EN CASA 2020\PROGRAMACION\PROYECTO DE EXAMEN\EXAMEN(factura)\EXAMEN(factura)\obj\x86\Debug\EXAMEN.FACTURA.resources
+C:\Users\krchi\Desktop\TAREA EN CASA 2020\PROGRAMACION\PROYECTO DE EXAMEN\EXAMEN(factura)\EXAMEN(factura)\obj\x86\Debug\EXAMEN.INTERFAZ.resources
+C:\Users\krchi\Desktop\TAREA EN CASA 2020\PROGRAMACION\PROYECTO DE EXAMEN\EXAMEN(factura)\EXAMEN(factura)\obj\x86\Debug\EXAMEN.INVENTARIO.resources
+C:\Users\krchi\Desktop\TAREA EN CASA 2020\PROGRAMACION\PROYECTO DE EXAMEN\EXAMEN(factura)\EXAMEN(factura)\obj\x86\Debug\EXAMEN.LOGI.resources
+C:\Users\krchi\Desktop\TAREA EN CASA 2020\PROGRAMACION\PROYECTO DE EXAMEN\EXAMEN(factura)\EXAMEN(factura)\obj\x86\Debug\EXAMEN.Resources.resources
+C:\Users\krchi\Desktop\TAREA EN CASA 2020\PROGRAMACION\PROYECTO DE EXAMEN\EXAMEN(factura)\EXAMEN(factura)\obj\x86\Debug\EXAMEN(factura).vbproj.GenerateResource.Cache
+C:\Users\krchi\Desktop\TAREA EN CASA 2020\PROGRAMACION\PROYECTO DE EXAMEN\EXAMEN(factura)\EXAMEN(factura)\obj\x86\Debug\EXAMEN(factura).exe
+C:\Users\krchi\Desktop\TAREA EN CASA 2020\PROGRAMACION\PROYECTO DE EXAMEN\EXAMEN(factura)\EXAMEN(factura)\obj\x86\Debug\EXAMEN(factura).xml
+C:\Users\krchi\Desktop\TAREA EN CASA 2020\PROGRAMACION\PROYECTO DE EXAMEN\EXAMEN(factura)\EXAMEN(factura)\obj\x86\Debug\EXAMEN(factura).pdb
